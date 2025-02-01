@@ -1,0 +1,21 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+    <!-- Fondo negro circular -->
+    <circle cx="200" cy="200" r="200" fill="black"/>
+    
+    <!-- Hexágono central en azul brillante -->
+    <path d="M200 100 L285 150 L285 250 L200 300 L115 250 L115 150 Z" 
+          fill="#00BFFF" 
+          stroke="white" 
+          stroke-width="8"/>
+
+    <!-- Texto JPA más grande y en blanco -->
+    <text x="200" y="220" 
+          font-family="Arial Black, Arial, sans-serif" 
+          font-size="100" 
+          font-weight="900" 
+          fill="white" 
+          text-anchor="middle"
+          letter-spacing="1">
+        JPA
+    </text>
+</svg>
